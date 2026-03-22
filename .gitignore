@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Data
+data/
+!data/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
